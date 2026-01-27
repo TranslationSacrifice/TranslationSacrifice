@@ -1,10 +1,6 @@
 ## Hi there 👋
-
-### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TranslationSacrifice&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  
-  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranslationSacrifice&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Top Languages" />
 </p>
