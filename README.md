@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranslationSacrifice&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180" alt="TranslationSacrifice's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranslationSacrifice&layout=compact&theme=radical&hide_border=false&count_private=true" height="180" alt="TranslationSacrifice's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TranslationSacrifice&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180" alt="TranslationSacrifice's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TranslationSacrifice&layout=compact&theme=radical&hide_border=false&count_private=true" height="180" alt="TranslationSacrifice's Top Languages" />
 </p>
 <!--
 **TranslationSacrifice/TranslationSacrifice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
